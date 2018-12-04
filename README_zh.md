@@ -5,7 +5,8 @@ dubbo-spring-boot-starter
 
 Dubbo Spring Boot Starter。也可以关注dubbo官方的[dubbo-spring-boot-project](https://github.com/dubbo/dubbo-spring-boot-project)
 
-支持jdk版本为1.6或者1.6+
+支持jdk版本为1.8或者1.8+
+支持SpringBoot版本为2.0.6或者2.0.6+
 
 （在修改源码前，请导入googlestyle-java.xml以保证一致的代码格式）
 
@@ -17,7 +18,7 @@ Dubbo Spring Boot Starter。也可以关注dubbo官方的[dubbo-spring-boot-proj
     <dependency>
         <groupId>com.alibaba.spring.boot</groupId>
         <artifactId>dubbo-spring-boot-starter</artifactId>
-        <version>2.0.0</version>
+        <version>2.0.2</version>
     </dependency>
 ```
 

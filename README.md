@@ -5,7 +5,8 @@ dubbo-spring-boot-starter [![Maven Central](https://maven-badges.herokuapp.com/m
 
 Dubbo Spring Boot Starter. Dubbo official [dubbo-spring-boot-project](https://github.com/dubbo/dubbo-spring-boot-project)
 
-Support jdk version 1.6 or 1.6+
+Support jdk version 1.8 or 1.8+  
+SpringBoot version 2.0.6 or 2.0.6+  
 
 (please import googlestyle-java.xml if you want to modify the code)
 

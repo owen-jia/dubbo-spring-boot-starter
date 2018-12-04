@@ -2,6 +2,7 @@ package com.alibaba.dubbo.spring.boot;
 
 import java.util.concurrent.CountDownLatch;
 
+import org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
@@ -20,6 +21,7 @@ import com.alibaba.dubbo.spring.boot.server.DubboServer;
  */
 @Configuration
 @EnableConfigurationProperties(DubboProperties.class)
+@AutoConfigureAfter
 public class DubboAutoConfiguration {
 
   /**
