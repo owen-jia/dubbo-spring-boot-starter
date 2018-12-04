@@ -9,7 +9,7 @@
 
 	<name>dubbo-spring-boot-starter</name>
 	<description>Dubbo Spring Boot Starter</description>
-	<url>https://github.com/alibaba/dubbo-spring-boot-starter</url>
+	<url>https://github.com/owen-jia/dubbo-spring-boot-starter</url>
 
 	<properties>
 		<!-- project -->
@@ -128,9 +128,6 @@
 					<!--<charset>${project.build.sourceEncoding}</charset>-->
 					<!--<encoding>${project.build.sourceEncoding}</encoding>-->
 					<!--<docencoding>${project.build.sourceEncoding}</docencoding>-->
-					<!--<links>-->
-						<!--<link>http://docs.oracle.com/javase/6/docs/api</link>-->
-					<!--</links>-->
 				<!--</configuration>-->
 			<!--</plugin>-->
 			<!--<plugin>-->
@@ -153,9 +150,9 @@
 	</build>
 
 	<scm>
-		<connection>scm:git:git@github.com:alibaba/dubbo-spring-boot-starter.git</connection>
-		<developerConnection>scm:git:git@github.com:alibaba/dubbo-spring-boot-starter.git</developerConnection>
-		<url>https://github.com/alibaba/dubbo-spring-boot-starter.git</url>
+		<connection>scm:git:git@github.com:owen-jia/dubbo-spring-boot-starter.git</connection>
+		<developerConnection>scm:git:git@github.com:owen-jia/dubbo-spring-boot-starter.git</developerConnection>
+		<url>https://github.com/owen-jia/dubbo-spring-boot-starter.git</url>
 	</scm>
 
 	<licenses>
@@ -169,49 +166,9 @@
 
 	<developers>
 		<developer>
-			<id>jiawenjun</id>
-			<name>jiawenjun</name>
-			<email>1185711879@qq.com</email>
-		</developer>
-		<developer>
-			<id>xionghui</id>
-			<name>xionghui</name>
-			<email>xionghui_coder@163.com</email>
-		</developer>
-		<developer>
-			<id>fx1061076658</id>
-			<name>吴福星</name>
-			<email>1061076658@qq.com</email>
-		</developer>
-		<developer>
-			<id>snakefor100</id>
-			<name>牛俊龙</name>
-			<email>540973185@qq.com</email>
-		</developer>
-		<developer>
-			<id>libin8537</id>
-			<name>李斌</name>
-			<email>libin8537@qq.com</email>
-		</developer>
-		<developer>
-			<id>edwin1215</id>
-			<name>曹峻铭</name>
-			<email>supercjm1215@163.com</email>
-		</developer>
-		<developer>
-			<id>yanchang-gyc</id>
-			<name>郭彦昌</name>
-			<email>yanchang.gyc@gmail.com</email>
-		</developer>
-		<developer>
-			<id>hanwangkun</id>
-			<name>韩旺坤</name>
-			<email>hanwangkun2006@126.com</email>
-		</developer>
-		<developer>
-			<id>Ivan97</id>
-			<name>张砚池</name>
-			<email>yangkizhang@gmail.com</email>
+			<id>owen</id>
+			<name>owen jia</name>
+			<email>owen-jia@outlook.com</email>
 		</developer>
 	</developers>
 
